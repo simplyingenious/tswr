@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Geomanist";
+  src: url("https://simplyingenious.github.io/tswr/geomanist-font/Geomanist-Medium-Webfont/geomanist-medium-webfont.woff2")
+    format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Geomanist";
+  src: url("https://simplyingenious.github.io/tswr/geomanist-font/Geomanist-Bold-Webfont/geomanist-bold-webfont.woff2")
+    format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
